@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ESEntity.loadFromJson(ESEntity, json : [String : AnyObject]) -&gt; ():ESEntity.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TestReactiveCocoaTests.(testComplexEntity(TestReactiveCocoaTests) -&gt; () -&gt; ()).(closure #3):TestReactiveCocoaTests.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TestReactiveCocoaTests.(testEntityContainsArray(TestReactiveCocoaTests) -&gt; () -&gt; ()).(closure #3):TestReactiveCocoaTests.swift">
+      </ContextState>
+      <ContextState
+         contextName = "String.(sha1(String) -&gt; () -&gt; String).(closure #1):String+SHA1.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
